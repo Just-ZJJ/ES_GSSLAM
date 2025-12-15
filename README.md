@@ -8,16 +8,16 @@
   <div align="center"></div>
 </p>
 
-<p align="center">
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <a href=""><img src="./assets/r0.gif" alt="Logo" style="width: 100%;"></a>
-  <a href=""><img src="./assets/r0_s.gif" alt="Logo" style="width: 100%;"></a>
+<div align="center">
+  <div align="center">
+    <a href="#"><img src="./assets/r0.gif" alt="Original" style="width: 100%"></a>
+    <a href="#"><img src="./assets/r0_s.gif" alt="Stylized" style="width: 100%"></a>
   </div>
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <a href=""><img src="./assets/scannet181.gif" alt="Logo" style="width: 100%;"></a>
-  <a href=""><img src="./assets/scannet181_s.gif" alt="Logo" style="width: 100%;"></a>
+  <div align="center">
+    <a href="#"><img src="./assets/scannet181.gif" alt="ScanNet Original" style="width: 100%"></a>
+    <a href="#"><img src="./assets/scannet181_s.gif" alt="ScanNet Stylized" style="width: 100%"></a>
   </div>
-</p>
+</div>
 
 <br>
 
