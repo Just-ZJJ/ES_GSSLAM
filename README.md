@@ -8,14 +8,33 @@
   <div align="center"></div>
 </p>
 
-<div align="center">
-  <div align="center">
-    <a href="#"><img src="./assets/r0.gif" alt="Original" style="width: 100%"></a>
-    <a href="#"><img src="./assets/r0_s.gif" alt="Stylized" style="width: 100%"></a>
+<div style="text-align: center; padding: 20px;">
+  <!-- 第一行 -->
+  <div style="
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    max-width: 800px;
+    margin: 0 auto;
+    width: 100%;
+    box-sizing: border-box;
+  ">
+    <a href="#"><img src="./assets/r0.gif" alt="Original" style="width: 100%; height: auto; display: block;"></a>
+    <a href="#"><img src="./assets/r0_s.gif" alt="Stylized" style="width: 100%; height: auto; display: block;"></a>
   </div>
-  <div align="center">
-    <a href="#"><img src="./assets/scannet181.gif" alt="ScanNet Original" style="width: 100%"></a>
-    <a href="#"><img src="./assets/scannet181_s.gif" alt="ScanNet Stylized" style="width: 100%"></a>
+
+  <!-- 第二行 -->
+  <div style="
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    max-width: 800px;
+    margin: 20px auto 0;
+    width: 100%;
+    box-sizing: border-box;
+  ">
+    <a href="#"><img src="./assets/scannet181.gif" alt="ScanNet Original" style="width: 100%; height: auto; display: block;"></a>
+    <a href="#"><img src="./assets/scannet181_s.gif" alt="ScanNet Stylized" style="width: 100%; height: auto; display: block;"></a>
   </div>
 </div>
 
