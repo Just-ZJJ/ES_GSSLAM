@@ -4,7 +4,7 @@
 
   <h1 align="center">Efficient Semantic Gaussian SLAM: Dynamic Pruning and Densification for Lightweight Mapping Based on Rendering Contribution</h1>
  
-  <h3 align="center"><a href="https://drive.google.com/drive/folders/1-o4iFl53QeYD907azv_e8rI4aVDDvLwT">Replica Dataset</a> | <a href="https://www.bilibili.com/video/BV16sGXzFEms/?share_source=copy_web&vd_source=1bf14fa95c6af9b6f95ec59f828e77e9">Video</a>
+  <h3 align="center"><a href="https://drive.google.com/drive/folders/1-o4iFl53QeYD907azv_e8rI4aVDDvLwT">Replica Dataset</a> | <a href="https://www.bilibili.com/video/BV1cHxxzsEto/?share_source=copy_web&vd_source=1bf14fa95c6af9b6f95ec59f828e77e9">Video</a>
   <div align="center"></div>
 </p>
 
