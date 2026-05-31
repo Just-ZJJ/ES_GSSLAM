@@ -64,8 +64,8 @@
 ## Installation
 
 ```bash
-conda create -n sgs-slam python=3.9
-conda activate sgs-slam
+conda create -n esgs-slam python=3.9
+conda activate esgs-slam
 conda install -c "nvidia/label/cuda-11.8.0" cuda-toolkit
 conda install pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 cudatoolkit=11.8 pytorch-cuda=11.8 -c pytorch -c nvidia
 pip install -r requirements.txt
